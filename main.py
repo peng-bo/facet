@@ -385,7 +385,7 @@ def main():
                 theta += pi / 360 * 15
             if window.event.key == 'q':
                 theta -= pi / 360 * 15
-            render_spectral(0, MAX_DEPTH, HAS_LIGHT)
+            render_spectral(theta, MAX_DEPTH, HAS_LIGHT)
             merge_windows()
         show_options(theta)
         canvas.set_image(film)
