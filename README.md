@@ -23,5 +23,5 @@ git clone https://github.com/peng-bo/facet.git
 ```
 
 ## Gallery
-
-
+![image](https://github.com/peng-bo/facet/blob/main/gallery/screenshot-20221204-064032.png)
+![image](https://github.com/peng-bo/facet/blob/main/gallery/screenshot-20221204-064255.png)
